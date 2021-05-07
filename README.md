@@ -9,4 +9,4 @@ customization. In the figure below you can see how the "final" page look like:</
 <img src="/img/page.png" alt="Instagram page draft">
 
 <p> Although it looks an easy job to be done, I have spent some hours racking my brains on it. However, it totally worthed it.
-Thanks to the Digital Innovation One and our tutor I am now able to apply the same technique in other projects, I cannot wait until then. </p>
+Thanks to the Digital Innovation One and our tutor, I am now able to apply the same technique in other projects. I cannot wait until then. </p>
