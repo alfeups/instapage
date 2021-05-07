@@ -6,7 +6,7 @@
 wrap up content and filling it up with some boxes. Furthermore, we have learned also how to align contents, position and 
 customization. In the figure below you can see how the "final" page look like:</p>
 
-<img src="/img/page.png" alt="Instagram page draft">
+<img src="/img/page.png" width="800" height="450" alt="Instagram page draft">
 
 <p> Although it looks an easy job to be done, I have spent some hours racking my brains on it. However, it totally worthed it.
 Thanks to the Digital Innovation One and our tutor, I am now able to apply the same technique in other projects. I cannot wait until then. </p>
